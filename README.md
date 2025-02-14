@@ -16,7 +16,7 @@ The data used for the analyses in this repository is part of the LEISURE study. 
 
 - [Campbell et al., (2024)](https://doi.org/10.1016/j.neurobiolaging.2024.09.005): Resting-state EEG correlates of sustained attention in healthy ageing: Cross-sectional findings from the LEISURE study
 
-    Analysis found in: `leisure_t1_resting_eeg_sustained_attention`
+    Analysis found in: `Campbell_Resting_EEG_Sustained_Attention_Healthy_Ageing_Cross_Sectional_LEISURE`
 
 ## EEG Preprocessing and Spectral Analysis
 
